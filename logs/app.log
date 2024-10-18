@@ -1,0 +1,119 @@
+[INFO ] 2024-10-18 10:46:51.053 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 27260 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 10:46:51.062 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 10:46:51.063 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 10:46:56.256 [main] StockApplication - Started StockApplication in 5.699 seconds (process running for 7.225)
+[DEBUG] 2024-10-18 10:47:32.154 [http-nio-8081-exec-1] ItemServiceImpl - CREATED:BERHASIL DIBUAT Item(id=1, itemName=Barang 1, itemStock=10, itemSerialNumber=ID-1, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)
+[INFO ] 2024-10-18 10:48:13.566 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 26708 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 10:48:13.575 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 10:48:13.577 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 10:48:17.605 [main] StockApplication - Started StockApplication in 4.475 seconds (process running for 5.726)
+[DEBUG] 2024-10-18 10:48:30.246 [http-nio-8081-exec-2] ItemServiceImpl - CREATED:BERHASIL DIBUAT Item(id=1, itemName=Barang 1, itemStock=10, itemSerialNumber=ID-1, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)
+[DEBUG] 2024-10-18 10:50:52.657 [http-nio-8081-exec-5] ItemServiceImpl - GET:[Item(id=1, itemName=Barang 1, itemStock=10, itemSerialNumber=ID-1, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)]
+[DEBUG] 2024-10-18 10:51:05.697 [http-nio-8081-exec-6] ItemServiceImpl - CREATED:BERHASIL DIBUAT Item(id=2, itemName=Barang 2, itemStock=10, itemSerialNumber=ID-2, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)
+[DEBUG] 2024-10-18 10:51:38.111 [http-nio-8081-exec-7] ItemServiceImpl - GET:[Item(id=1, itemName=Barang 1, itemStock=10, itemSerialNumber=ID-1, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim), Item(id=2, itemName=Barang 2, itemStock=10, itemSerialNumber=ID-2, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)]
+[DEBUG] 2024-10-18 10:51:48.662 [http-nio-8081-exec-8] ItemServiceImpl - PUT:BERHASIL DIBUAT Item(id=1, itemName=Kardus, itemStock=10, itemSerialNumber=ID-1, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)
+[INFO ] 2024-10-18 10:53:33.165 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 27016 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 10:53:33.175 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 10:53:33.176 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 10:53:37.552 [main] StockApplication - Started StockApplication in 4.85 seconds (process running for 6.121)
+[DEBUG] 2024-10-18 10:53:54.629 [http-nio-8081-exec-4] ItemServiceImpl - CREATED:BERHASIL DIBUAT Item(id=1, itemName=Barang 2, itemStock=10, itemSerialNumber=ID-2, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)
+[INFO ] 2024-10-18 11:40:59.298 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 23992 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 11:40:59.308 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 11:40:59.309 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 11:41:03.588 [main] StockApplication - Started StockApplication in 4.761 seconds (process running for 6.096)
+[DEBUG] 2024-10-18 11:46:58.868 [http-nio-8081-exec-5] ItemServiceImpl - CREATED:BERHASIL DIBUAT Item(id=1, itemName=Barang 2, itemStock=10, itemSerialNumber=ID-2, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)
+[INFO ] 2024-10-18 11:49:48.167 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 13212 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 11:49:48.176 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 11:49:48.178 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 11:49:52.564 [main] StockApplication - Started StockApplication in 4.817 seconds (process running for 5.987)
+[INFO ] 2024-10-18 11:52:13.447 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 1292 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 11:52:13.456 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 11:52:13.457 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 11:52:17.462 [main] StockApplication - Started StockApplication in 4.405 seconds (process running for 5.512)
+[DEBUG] 2024-10-18 11:52:48.542 [http-nio-8081-exec-1] ItemServiceImpl - CREATED:BERHASIL DIBUAT Item(id=1, itemName=Barang 2, itemStock=10, itemSerialNumber=ID-2, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)
+[INFO ] 2024-10-18 11:53:42.451 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 26012 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 11:53:42.460 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 11:53:42.461 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 11:53:46.469 [main] StockApplication - Started StockApplication in 4.409 seconds (process running for 5.537)
+[INFO ] 2024-10-18 11:55:22.587 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 25204 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 11:55:22.596 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 11:55:22.598 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 11:55:26.942 [main] StockApplication - Started StockApplication in 4.777 seconds (process running for 6.044)
+[INFO ] 2024-10-18 12:00:52.409 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 2592 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 12:00:52.419 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 12:00:52.420 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 12:00:56.859 [main] StockApplication - Started StockApplication in 4.844 seconds (process running for 6.09)
+[INFO ] 2024-10-18 12:04:42.315 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 27136 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 12:04:42.325 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 12:04:42.326 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 12:04:46.544 [main] StockApplication - Started StockApplication in 4.624 seconds (process running for 5.875)
+[INFO ] 2024-10-18 12:08:11.033 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 8920 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 12:08:11.043 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 12:08:11.044 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 12:08:15.463 [main] StockApplication - Started StockApplication in 4.84 seconds (process running for 6.055)
+[INFO ] 2024-10-18 12:10:35.960 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 26732 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 12:10:35.971 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 12:10:35.973 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 12:10:40.253 [main] StockApplication - Started StockApplication in 4.668 seconds (process running for 5.978)
+[INFO ] 2024-10-18 12:11:21.284 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 24820 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 12:11:21.293 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 12:11:21.295 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 12:11:25.696 [main] StockApplication - Started StockApplication in 4.804 seconds (process running for 6.029)
+[DEBUG] 2024-10-18 12:12:06.534 [http-nio-8081-exec-1] ItemServiceImpl - CREATED:BERHASIL DIBUAT Item(id=1, itemName=Barang 2, itemStock=10, itemSerialNumber=ID-2, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)
+[INFO ] 2024-10-18 12:13:21.844 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 28308 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 12:13:21.854 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 12:13:21.855 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 12:13:26.084 [main] StockApplication - Started StockApplication in 4.643 seconds (process running for 5.818)
+[DEBUG] 2024-10-18 12:13:56.686 [http-nio-8081-exec-5] ItemServiceImpl - CREATED:BERHASIL DIBUAT Item(id=1, itemName=Barang 2, itemStock=10, itemSerialNumber=ID-2, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)
+[INFO ] 2024-10-18 12:16:17.058 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 28196 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 12:16:17.069 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 12:16:17.070 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 12:16:21.537 [main] StockApplication - Started StockApplication in 4.89 seconds (process running for 6.118)
+[DEBUG] 2024-10-18 12:16:30.128 [http-nio-8081-exec-4] ItemServiceImpl - CREATED:BERHASIL DIBUAT Item(id=1, itemName=Barang 2, itemStock=10, itemSerialNumber=ID-2, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)
+[INFO ] 2024-10-18 12:59:00.941 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 31284 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 12:59:00.954 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 12:59:00.956 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 13:03:14.458 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 24768 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 13:03:14.467 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 13:03:14.468 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 13:03:49.413 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 26528 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 13:03:49.424 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 13:03:49.425 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 13:07:21.300 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 9620 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 13:07:21.311 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 13:07:21.313 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 13:08:57.454 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 29660 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 13:08:57.465 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 13:08:57.466 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 13:10:11.253 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 20908 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 13:10:11.263 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 13:10:11.265 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 13:10:56.453 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 4420 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 13:10:56.462 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 13:10:56.463 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 13:11:29.763 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 4224 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 13:11:29.774 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 13:11:29.776 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 13:15:02.091 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 31200 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 13:15:02.101 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 13:15:02.102 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 13:15:06.171 [main] StockApplication - Started StockApplication in 4.457 seconds (process running for 5.544)
+[DEBUG] 2024-10-18 13:15:13.125 [http-nio-8081-exec-1] ItemServiceImpl - CREATED:BERHASIL DIBUAT Item(id=1, itemName=Barang 2, itemStock=10, itemSerialNumber=ID-2, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)
+[ERROR] 2024-10-18 13:15:41.649 [http-nio-8081-exec-3] ItemServiceImpl - ERROR:org.springframework.orm.jpa.JpaSystemException: No default constructor for entity 'com.example.stock.model.Item'
+[INFO ] 2024-10-18 13:16:50.932 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 25580 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 13:16:50.942 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 13:16:50.943 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 13:16:55.822 [main] StockApplication - Started StockApplication in 5.274 seconds (process running for 6.525)
+[DEBUG] 2024-10-18 13:17:04.104 [http-nio-8081-exec-3] ItemServiceImpl - CREATED:BERHASIL DIBUAT Item(id=1, itemName=Barang 2, itemStock=10, itemSerialNumber=ID-2, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)
+[ERROR] 2024-10-18 13:17:05.824 [http-nio-8081-exec-4] ItemServiceImpl - ERROR:org.springframework.orm.jpa.JpaSystemException: No default constructor for entity 'com.example.stock.model.Item'
+[INFO ] 2024-10-18 13:19:06.822 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 13088 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 13:19:06.831 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 13:19:06.832 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 13:19:10.751 [main] StockApplication - Started StockApplication in 4.29 seconds (process running for 5.36)
+[DEBUG] 2024-10-18 13:19:29.590 [http-nio-8081-exec-2] ItemServiceImpl - CREATED:BERHASIL DIBUAT Item(id=1, itemName=Barang 2, itemStock=10, itemSerialNumber=ID-2, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)
+[INFO ] 2024-10-18 13:22:10.108 [main] StockApplication - Starting StockApplication using Java 19.0.1 with PID 31016 (C:\file ricky\portofolio\stock\target\classes started by Ricky Salim in C:\file ricky\portofolio\stock)
+[DEBUG] 2024-10-18 13:22:10.118 [main] StockApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+[INFO ] 2024-10-18 13:22:10.119 [main] StockApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-10-18 13:22:14.300 [main] StockApplication - Started StockApplication in 4.67 seconds (process running for 5.971)
+[DEBUG] 2024-10-18 13:22:29.783 [http-nio-8081-exec-3] ItemServiceImpl - CREATED:BERHASIL DIBUAT Item(id=1, itemName=Barang 2, itemStock=10, itemSerialNumber=ID-2, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)
+[DEBUG] 2024-10-18 13:22:31.621 [http-nio-8081-exec-4] ItemServiceImpl - GET:[Item(id=1, itemName=Barang 2, itemStock=10, itemSerialNumber=ID-2, itemAdditionalInfo={}, itemPicture=, itemCreatedAt=2024-10-17, itemCreatedBy=Ricky Salim, itemUpdatedAt=2024-10-17, itemUpdatedBy=Ricky Salim)]
